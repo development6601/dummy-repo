@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-06-18T13:39:13.329Z",
+  "metadata": {
+    "directory": {
+      "name": "repo",
+      "path": "C:\Users\PC\AppData\Local\Temp\llm-readme-yQMVHP\repo",
+      "purpose": "The directory C:\Users\PC\AppData\Local\Temp\llm-readme-yQMVHP\repo is a temporary location containing unspecified files and subdirectories  likely related to a  project, with no clear overall purpose discernible from the provided information.",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": [
+  {
+    "name": "Folder 1",
+    "relativePath": "Folder 1",
+    "sourcedPurposeFromChild": null,
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "test1",
+    "relativePath": "test1",
+    "sourcedPurposeFromChild": null,
+    "keyElementsFromChild": []
+  },
+  {
+    "name": "test2",
+    "relativePath": "test2",
+    "sourcedPurposeFromChild": null,
+    "keyElementsFromChild": []
+  }
+]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-06-12T10:58:03.648Z",
+  "metadata": {
+    "directory": {
+      "name": "Folder 1",
+      "path": "C:\Users\PC\AppData\Local\Temp\llm-readme-G9cEYc\repo\Folder 1",
+      "purpose": "Enhanced directory analysis of Folder 1",
+      "ownKeyElements": []
+    },
+    "files": [
+    ],
+    "subdirectories": [
+  {
+    "name": "Folder A",
+    "relativePath": "Folder A",
+    "sourcedPurposeFromChild": null,
+    "keyElementsFromChild": []
+  }
+]
+  }
+}
