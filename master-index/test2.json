@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-11-14T04:52:12.217Z",
+  "configuration": {
+    "detectPlaceholders": true,
+    "placeholderConfidence": 45,
+    "placeholderAnalysisLevel": "enhanced",
+    "detailLevel": "standard",
+    "includeComplexity": false,
+    "maxFiles": 2000
+  },
+  "metadata": {
+    "directory": {
+      "name": "test2",
+      "path": "test2",
+      "purpose": "Enhanced directory analysis of test2",
+      "ownKeyElements": []
+    },
+    "files": [],
+    "subdirectories": []
+  }
+}

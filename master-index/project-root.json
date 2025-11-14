@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-11-14T04:52:12.243Z",
+  "configuration": {
+    "detectPlaceholders": true,
+    "placeholderConfidence": 45,
+    "placeholderAnalysisLevel": "enhanced",
+    "detailLevel": "standard",
+    "includeComplexity": false,
+    "maxFiles": 2000
+  },
+  "metadata": {
+    "directory": {
+      "name": "placeholder-detection-1763095930161-la424larj",
+      "path": ".",
+      "purpose": "Enhanced directory analysis of placeholder-detection-1763095930161-la424larj",
+      "ownKeyElements": []
+    },
+    "files": [],
+    "subdirectories": [
+      {
+        "name": "Folder 1",
+        "relativePath": "Folder 1",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of Folder 1",
+        "keyElementsFromChild": []
+      },
+      {
+        "name": "test1",
+        "relativePath": "test1",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of test1",
+        "keyElementsFromChild": []
+      },
+      {
+        "name": "test2",
+        "relativePath": "test2",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of test2",
+        "keyElementsFromChild": []
+      }
+    ]
+  }
+}
