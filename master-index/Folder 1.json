@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json.schemastore.org/llm-metadata-1.4.json",
+  "version": "2.1.0",
+  "generatedAt": "2025-11-28T04:52:37.856Z",
+  "configuration": {
+    "detectPlaceholders": false,
+    "placeholderConfidence": 40,
+    "placeholderAnalysisLevel": "enhanced",
+    "detailLevel": "standard",
+    "includeComplexity": false,
+    "maxFiles": 2000
+  },
+  "metadata": {
+    "directory": {
+      "name": "Folder 1",
+      "path": "Folder 1",
+      "purpose": "Enhanced directory analysis of Folder 1",
+      "ownKeyElements": []
+    },
+    "files": [],
+    "subdirectories": [
+      {
+        "name": "Folder A",
+        "relativePath": "Folder A",
+        "sourcedPurposeFromChild": "Enhanced directory analysis of Folder A",
+        "keyElementsFromChild": []
+      }
+    ]
+  }
+}
