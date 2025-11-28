@@ -1,11 +1,11 @@
-# 🚀 repo-d7e5ba15-36e1-4e5f-9021-b7e1259bfacb-1763095932558
+# 🚀 workspace
 
-> Enhanced directory analysis of repo-d7e5ba15-36e1-4e5f-9021-b7e1259bfacb-1763095932558
+> Enhanced directory analysis of workspace
 
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Language](https://img.shields.io/badge/Language-JavaScript-blue)](#)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#)
-[![Generated](https://img.shields.io/badge/Generated-11/14/2025-orange)](#)
+[![Generated](https://img.shields.io/badge/Generated-11/28/2025-orange)](#)
 
 ## 📋 Table of Contents
 
@@ -21,7 +21,7 @@
 
 ## 📖 Description
 
-Enhanced directory analysis of repo-d7e5ba15-36e1-4e5f-9021-b7e1259bfacb-1763095932558
+Enhanced directory analysis of workspace
 
 This project demonstrates modern JavaScript development practices with a well-organized codebase structure. It includes implementation files, comprehensive testing.
 
@@ -39,7 +39,7 @@ Get up and running in just a few steps:
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd repo-d7e5ba15-36e1-4e5f-9021-b7e1259bfacb-1763095932558
+cd workspace
 
 # Run the main application
 node index.js
@@ -76,8 +76,9 @@ main();
 ## 📁 Project Structure
 
 ```
-repo-d7e5ba15-36e1-4e5f-9021-b7e1259bfacb-1763095932558/
+workspace/
 ├── 📁 Folder 1/
+├── 📁 master-index/
 ├── 📁 test1/ # Test files and test utilities
 └── 📁 test2/ # Test files and test utilities
 ├── 📄 README.md          # This file
@@ -87,6 +88,7 @@ repo-d7e5ba15-36e1-4e5f-9021-b7e1259bfacb-1763095932558/
 ### Directory Overview
 
 - **`Folder 1/`** - Enhanced directory analysis of Folder 1
+- **`master-index/`** - Enhanced directory analysis of master-index
 - **`test1/`** - Enhanced directory analysis of test1
 - **`test2/`** - Enhanced directory analysis of test2
 
@@ -126,6 +128,7 @@ The test suite covers:
 For detailed API documentation, see the README files in each directory:
 
 - [`Folder 1/` API Documentation](./Folder 1/README.md)
+- [`master-index/` API Documentation](./master-index/README.md)
 - [`test1/` API Documentation](./test1/README.md)
 - [`test2/` API Documentation](./test2/README.md)
 
@@ -139,7 +142,7 @@ We welcome contributions! Here's how to get started:
 2. **Clone your fork**:
    ```bash
    git clone <your-fork-url>
-   cd repo-d7e5ba15-36e1-4e5f-9021-b7e1259bfacb-1763095932558
+   cd workspace
    ```
 3. **Create a feature branch**:
    ```bash

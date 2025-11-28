@@ -1,10 +1,10 @@
-# 📁 test11
+# 📁 master-index
 
-> Enhanced directory analysis of test11
+> Enhanced directory analysis of master-index
 
 ## 📋 Directory Overview
 
-Enhanced directory analysis of test11
+Enhanced directory analysis of master-index
 
 **📊 Directory Statistics:**
 - **Files:** 0 JavaScript files
